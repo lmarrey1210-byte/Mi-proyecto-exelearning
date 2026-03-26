@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260326094655C05S0U</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260326094655AWJIWE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Exploramos la Prehistoria </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Investigación y excavación arqueológica</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Laura del Pilar Martín Rey</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto se centra en el estudio de la Prehistoria, a través de un aprendizaje basado en la investigación y simulación de una excavación arqueológica. Así pues, el alumnado investigará sobre las distintas herramientas utilizadas en la Prehistoria y elaborará un libro digital informativo con las piezas trabajadas que, posteriormente, encontrarán en la excavación.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774514307314</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mn7802ib-b0rjd5vu9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn7802ib-b0rjd5vu9</odePageId>
+      <odeBlockId>block-1774426727057-vzsdd8rj4</odeBlockId>
+      <blockName>Exploramos la Prehistoria: Investigación y excavación arqueológica</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802ib-b0rjd5vu9</odePageId>
+          <odeBlockId>block-1774426727057-vzsdd8rj4</odeBlockId>
+          <odeIdeviceId>idevice-1774426727055-r0fthh74c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" height="122" style="width: 78.0511%; height: 81.4px;">
+<tbody>
+<tr style="height: 81.4px;">
+<td style="width: 100%; height: 81.4px;">
+<p><strong>Curso:</strong> 1.º ESO</p>
+<p><strong>Materia:</strong> Geografía e Historia</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p>¿Te has parado a pensar cómo eran las <strong>herramientas en la Prehistoria</strong>?<br />¿Quién las fabricaba? ¿Para qué servían? ¿Cómo evolucionaron con el paso del tiempo?</p>
+<p>A lo largo de este proyecto, tendrás que <strong>dar respuesta </strong>a estas y muchas otras <strong>preguntas</strong>.</p>
+<p>Nos convertiremos en <strong>auténticos investigadores y arqueólogos</strong>: exploraremos, analizaremos y pondremos en práctica nuestros conocimientos a través de diferentes actividades.</p>
+<p>¿Te atreves a descubrirlo de forma <strong>práctica</strong>?<br />¿Serás capaz de investigar, analizar y crear <strong>tu propio producto digital</strong>?</p>
+<p><strong>¡Comenzamos esta aventura en la Prehistoria!</strong></p>
+<p><img src="{{context_path}}/content/resources/Prehistoric_stone_tools_from_Pidhipudas,_Finland.jpg" title="Herramientas del Paleolítico" width="420" height="165" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;">Imagen: Prehistoric stone tools from Pihtipudas, Finland (2024) – Autor: Limelightangel – Fuente: Wikimedia Commons – Licencia: CC0 1.0 (dominio público)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774426727055-r0fthh74c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"122\" style=\"width: 78.0511%; height: 81.4px;\">\n<tbody>\n<tr style=\"height: 81.4px;\">\n<td style=\"width: 100%; height: 81.4px;\">\n<p><strong>Curso:</strong> 1.º ESO</p>\n<p><strong>Materia:</strong> Geografía e Historia</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p>¿Te has parado a pensar cómo eran las <strong>herramientas en la Prehistoria</strong>?<br />¿Quién las fabricaba? ¿Para qué servían? ¿Cómo evolucionaron con el paso del tiempo?</p>\n<p>A lo largo de este proyecto, tendrás que <strong>dar respuesta </strong>a estas y muchas otras <strong>preguntas</strong>.</p>\n<p>Nos convertiremos en <strong>auténticos investigadores y arqueólogos</strong>: exploraremos, analizaremos y pondremos en práctica nuestros conocimientos a través de diferentes actividades.</p>\n<p>¿Te atreves a descubrirlo de forma <strong>práctica</strong>?<br />¿Serás capaz de investigar, analizar y crear <strong>tu propio producto digital</strong>?</p>\n<p><strong>¡Comenzamos esta aventura en la Prehistoria!</strong></p>\n<p><img src=\"{{context_path}}/content/resources/Prehistoric_stone_tools_from_Pidhipudas,_Finland.jpg\" title=\"Herramientas del Paleolítico\" width=\"420\" height=\"165\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\">Imagen: Prehistoric stone tools from Pihtipudas, Finland (2024) – Autor: Limelightangel – Fuente: Wikimedia Commons – Licencia: CC0 1.0 (dominio público)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn7802ih-bo07himqx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn7802ih-bo07himqx</odePageId>
+      <odeBlockId>block-1774428289271-rqg8z1pc5</odeBlockId>
+      <blockName>DESCRIPCIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802ih-bo07himqx</odePageId>
+          <odeBlockId>block-1774428289271-rqg8z1pc5</odeBlockId>
+          <odeIdeviceId>idevice-1774428289267-iaexmlsxv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto se centra en el <strong>estudio de la Prehistoria</strong>, a través de un aprendizaje basado en la investigación y simulación de una excavación arqueológica. Así pues, investigaremos sobre las <strong>distintas herramientas utilizadas en la Prehistoria</strong> y elaboraremos un <strong>libro digital informativo</strong> con las piezas trabajadas que, posteriormente, encontraremos en la <strong>excavación</strong>.</p>
+<p>Por lo tanto, el <strong>centro de interés</strong> será la <strong>Prehistoria </strong>y su <strong>producto final </strong>un <strong>libro digital informativo</strong> y la <strong>excavación arqueológica</strong> simulada realizada en el huerto del centro.</p>
+<p>Pero... para empezar, echa un vistazo a estos <a href="https://www.canva.com/design/DAHDoKlvUsQ/dDKhCjmPpQSsxJnSGzwBjQ/edit" title="">consejos de protección en la red</a>.</p>
+<p><img src="{{context_path}}/content/resources/IMG_6806.jpg" title="Cómo trabajar de forma segura en internet" width="292" height="760" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;">Laura del Pilar Martín Rey. <a href="https://www.canva.com/design/DAHDoKlvUsQ/dDKhCjmPpQSsxJnSGzwBjQ/edit" title="">Cómo trabajar de forma segura en internet</a>. Creative Commons CC-BY-NC-SA</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774428289267-iaexmlsxv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto se centra en el <strong>estudio de la Prehistoria</strong>, a través de un aprendizaje basado en la investigación y simulación de una excavación arqueológica. Así pues, investigaremos sobre las <strong>distintas herramientas utilizadas en la Prehistoria</strong> y elaboraremos un <strong>libro digital informativo</strong> con las piezas trabajadas que, posteriormente, encontraremos en la <strong>excavación</strong>.</p>\n<p>Por lo tanto, el <strong>centro de interés</strong> será la <strong>Prehistoria </strong>y su <strong>producto final </strong>un <strong>libro digital informativo</strong> y la <strong>excavación arqueológica</strong> simulada realizada en el huerto del centro.</p>\n<p>Pero... para empezar, echa un vistazo a estos <a href=\"https://www.canva.com/design/DAHDoKlvUsQ/dDKhCjmPpQSsxJnSGzwBjQ/edit\" title=\"\">consejos de protección en la red</a>.</p>\n<p><img src=\"{{context_path}}/content/resources/IMG_6806.jpg\" title=\"Cómo trabajar de forma segura en internet\" width=\"292\" height=\"760\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\">Laura del Pilar Martín Rey. <a href=\"https://www.canva.com/design/DAHDoKlvUsQ/dDKhCjmPpQSsxJnSGzwBjQ/edit\" title=\"\">Cómo trabajar de forma segura en internet</a>. Creative Commons CC-BY-NC-SA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn7802ii-vrh8ffyin</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Libro informativo</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Libro informativo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Libro informativo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn7802ii-vrh8ffyin</odePageId>
+      <odeBlockId>block-1774429784513-d4rit802h</odeBlockId>
+      <blockName>Herramienta para el producto final</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802ii-vrh8ffyin</odePageId>
+          <odeBlockId>block-1774429784513-d4rit802h</odeBlockId>
+          <odeIdeviceId>idevice-1774429784511-gn52uva2k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la realización del producto final utilizaremos <strong>Canva</strong> como herramienta digital.</p>
+<p>El producto final consiste en la elaboración de un libro informativo sobre las herramientas de la Prehistoria que, posteriormente, debemos encontrar en una excavación arqueológica.</p>
+<p>Podemos hacerlo con <strong>Canva </strong>porque es una herramienta muy útil Además, gracias a ella, podremos <strong>incorporar imágenes</strong> de las piezas, <strong>añadir textos explicativos</strong>, elementos <strong>interactivos</strong>, <strong>vídeos</strong> y <strong>organizar la información</strong> de forma clara.</p>
+<p>Quizás conoces Canva, pero si no es así, no te preocupes, <a href="https://www.youtube.com/watch?v=AkwSFizpMw8" title="">aquí</a> tienes las instrucciones para iniciar sesión y algunos <a href="https://www.youtube.com/@canveros">tutoriales</a>, y por supuesto, el profesor de Geografía y yo, estamos siempre para guiarte.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/AkwSFizpMw8" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: left;"><em>¿Cómo entrar en Canva e iniciar sesión?</em> – Autor: Canveros – Fuente: YouTube (integrado en Canveros) – Licencia: Licencia estándar de YouTube – Disponible en: <a href="https://canveros.com/iniciar-sesion-en-canva-entrar/">https://canveros.com/iniciar-sesion-en-canva-entrar/</a> </p>
+<p>No obstante, una <strong>alternativa</strong> a Canva podría ser también <strong>Genially</strong>.</p>
+<p>Ya sabemos que disponemos de ordenadores y conexión a internet, por lo que podemos hacer uso de estas herramientas.</p>
+<p>Por último, destacar que al finalizar el proyecto, realizaremos un cuestionario en <strong>Kahoot </strong>para comprobar todo lo que hemos aprendido durante estas semanas. </p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774429784511-gn52uva2k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la realización del producto final utilizaremos <strong>Canva</strong> como herramienta digital.</p>\n<p>El producto final consiste en la elaboración de un libro informativo sobre las herramientas de la Prehistoria que, posteriormente, debemos encontrar en una excavación arqueológica.</p>\n<p>Podemos hacerlo con <strong>Canva </strong>porque es una herramienta muy útil Además, gracias a ella, podremos <strong>incorporar imágenes</strong> de las piezas, <strong>añadir textos explicativos</strong>, elementos <strong>interactivos</strong>, <strong>vídeos</strong> y <strong>organizar la información</strong> de forma clara.</p>\n<p>Quizás conoces Canva, pero si no es así, no te preocupes, <a href=\"https://www.youtube.com/watch?v=AkwSFizpMw8\" title=\"\">aquí</a> tienes las instrucciones para iniciar sesión y algunos <a href=\"https://www.youtube.com/@canveros\">tutoriales</a>, y por supuesto, el profesor de Geografía y yo, estamos siempre para guiarte.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/AkwSFizpMw8\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: left;\"><em>¿Cómo entrar en Canva e iniciar sesión?</em> – Autor: Canveros – Fuente: YouTube (integrado en Canveros) – Licencia: Licencia estándar de YouTube – Disponible en: <a href=\"https://canveros.com/iniciar-sesion-en-canva-entrar/\">https://canveros.com/iniciar-sesion-en-canva-entrar/</a> </p>\n<p>No obstante, una <strong>alternativa</strong> a Canva podría ser también <strong>Genially</strong>.</p>\n<p>Ya sabemos que disponemos de ordenadores y conexión a internet, por lo que podemos hacer uso de estas herramientas.</p>\n<p>Por último, destacar que al finalizar el proyecto, realizaremos un cuestionario en <strong>Kahoot </strong>para comprobar todo lo que hemos aprendido durante estas semanas. </p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn7802ij-3jgdedl0a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Consultas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consultas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consultas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn7802ij-3jgdedl0a</odePageId>
+      <odeBlockId>block-1774430813126-xhosvyuye</odeBlockId>
+      <blockName>Lo tienes a tu alcance</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802ij-3jgdedl0a</odePageId>
+          <odeBlockId>block-1774430813126-xhosvyuye</odeBlockId>
+          <odeIdeviceId>idevice-1774430813124-1v0nag72d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Si durante el proceso tienes dudas, puedes contar conmigo y preguntarme en clase o a través del correo electrónico. Pero además, te dejo aquí un <a href="https://padlet.com/lmarrey1210/exploramos-la-prehistoria-ua1ekcpxtn6tjjx3" title="">mural en "padlet"</a> con algunos de los recursos que hemos ido viendo durante la creación de nuestro libro informativo. También, puedes hacer clic en este <a href="https://www.symbaloo.com/shared/AAAABufrfgwAA42ADs9XUQ==">panel de "symbaloo"</a>, aquí encontrarás ideas sobre las herramientas digitales que podéis emplear.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/captura 2.png" title="Exploramos la Prehistoria" width="515" height="247" alt="" style="display: block; margin-left: auto; margin-right: auto;" />Recurso de curación de contenidos elaborado por: Laura del Pilar Martín Rey mediante Padlet. Licencia: Creative Commons CC BY-SA 4.0.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/captura 3.png" title="Herramientas digitales" width="538" height="245" alt="" /></p>
+<p style="text-align: center;">Entorno personal de aprendizaje (PLE) elaborado por: Laura del Pilar Martín Rey mediante Symbaloo. Licencia: Creative Commons CC BY-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774430813124-1v0nag72d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Si durante el proceso tienes dudas, puedes contar conmigo y preguntarme en clase o a través del correo electrónico. Pero además, te dejo aquí un <a href=\"https://padlet.com/lmarrey1210/exploramos-la-prehistoria-ua1ekcpxtn6tjjx3\" title=\"\">mural en \"padlet\"</a> con algunos de los recursos que hemos ido viendo durante la creación de nuestro libro informativo. También, puedes hacer clic en este <a href=\"https://www.symbaloo.com/shared/AAAABufrfgwAA42ADs9XUQ==\">panel de \"symbaloo\"</a>, aquí encontrarás ideas sobre las herramientas digitales que podéis emplear.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/captura 2.png\" title=\"Exploramos la Prehistoria\" width=\"515\" height=\"247\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" />Recurso de curación de contenidos elaborado por: Laura del Pilar Martín Rey mediante Padlet. Licencia: Creative Commons CC BY-SA 4.0.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/captura 3.png\" title=\"Herramientas digitales\" width=\"538\" height=\"245\" alt=\"\" /></p>\n<p style=\"text-align: center;\">Entorno personal de aprendizaje (PLE) elaborado por: Laura del Pilar Martín Rey mediante Symbaloo. Licencia: Creative Commons CC BY-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn7802ij-454djyib9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Paso a paso</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Paso a paso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Paso a paso</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn7802ij-454djyib9</odePageId>
+      <odeBlockId>block-1774432269473-l7cmi4lok</odeBlockId>
+      <blockName>¿Qué actividades haremos?</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802ij-454djyib9</odePageId>
+          <odeBlockId>block-1774432269473-l7cmi4lok</odeBlockId>
+          <odeIdeviceId>idevice-1774432269470-luahhnzwa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de este proyecto, vamos a descubrir cómo vivían nuestros antepasados en la Prehistoria, centrándonos especialmente en las herramientas que utilizaban.</p>
+<p>Para ello, realizaremos diferentes actividades:</p>
+<p>- En primer lugar, haremos una <strong>introducción</strong> a la Prehistoria, donde recordaremos lo que ya sabemos y conoceremos nuevos aspectos sobre este periodo.</p>
+<p>- Después, llevaremos a cabo una <strong>investigación</strong>, en la que buscaremos información sobre las herramientas del Paleolítico utilizando distintos recursos digitales.</p>
+<p>- A continuación, realizaremos un <strong>análisis de las herramientas</strong>, identificando sus características, para qué servían y cómo fueron evolucionando.</p>
+<p>- Más adelante, elaboraremos un <strong>libro digital</strong>, donde recogeremos toda la información trabajada de forma creativa.</p>
+<p>- Por último, realizaremos una <strong>excavación arqueológica</strong> simulada, en la que pondremos en práctica todo lo aprendido, así que nos desplazaremos... ¡al huerto del instituto!</p>
+<p>¡Prepárate para investigar, descubrir y aprender como un auténtico arqueólogo/a!</p>
+<p>A continuación, puedes ver la <strong>línea temporal</strong> del proyecto, donde se recogen todas las actividades que vamos a realizar.</p>
+<p>En ella podrás ver cuánto tiempo dedicaremos a cada tarea, <strong>cómo</strong> trabajaremos (individual o en grupo), qué <strong>herramientas</strong> utilizaremos y <strong>dónde </strong>realizaremos las actividades.</p>
+<p>Esta <a href="https://www.canva.com/design/DAHEaT6YwLs/-iPOVW234C_RHIrI5mKfFw/edit" title="">línea temporal</a> te servirá como guía para seguir el proyecto paso a paso.</p>
+<p><img src="{{context_path}}/content/resources/captura 4.png" title="Línea temporal" width="636" height="341" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;">Laura del Pilar Martín Rey. <a href="https://www.canva.com/design/DAHEaT6YwLs/-iPOVW234C_RHIrI5mKfFw/edit" title="">Línea temporal</a>. Creative Commons CC-BY-NC-SA</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774432269470-luahhnzwa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de este proyecto, vamos a descubrir cómo vivían nuestros antepasados en la Prehistoria, centrándonos especialmente en las herramientas que utilizaban.</p>\n<p>Para ello, realizaremos diferentes actividades:</p>\n<p>- En primer lugar, haremos una <strong>introducción</strong> a la Prehistoria, donde recordaremos lo que ya sabemos y conoceremos nuevos aspectos sobre este periodo.</p>\n<p>- Después, llevaremos a cabo una <strong>investigación</strong>, en la que buscaremos información sobre las herramientas del Paleolítico utilizando distintos recursos digitales.</p>\n<p>- A continuación, realizaremos un <strong>análisis de las herramientas</strong>, identificando sus características, para qué servían y cómo fueron evolucionando.</p>\n<p>- Más adelante, elaboraremos un <strong>libro digital</strong>, donde recogeremos toda la información trabajada de forma creativa.</p>\n<p>- Por último, realizaremos una <strong>excavación arqueológica</strong> simulada, en la que pondremos en práctica todo lo aprendido, así que nos desplazaremos... ¡al huerto del instituto!</p>\n<p>¡Prepárate para investigar, descubrir y aprender como un auténtico arqueólogo/a!</p>\n<p>A continuación, puedes ver la <strong>línea temporal</strong> del proyecto, donde se recogen todas las actividades que vamos a realizar.</p>\n<p>En ella podrás ver cuánto tiempo dedicaremos a cada tarea, <strong>cómo</strong> trabajaremos (individual o en grupo), qué <strong>herramientas</strong> utilizaremos y <strong>dónde </strong>realizaremos las actividades.</p>\n<p>Esta <a href=\"https://www.canva.com/design/DAHEaT6YwLs/-iPOVW234C_RHIrI5mKfFw/edit\" title=\"\">línea temporal</a> te servirá como guía para seguir el proyecto paso a paso.</p>\n<p><img src=\"{{context_path}}/content/resources/captura 4.png\" title=\"Línea temporal\" width=\"636\" height=\"341\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\">Laura del Pilar Martín Rey. <a href=\"https://www.canva.com/design/DAHEaT6YwLs/-iPOVW234C_RHIrI5mKfFw/edit\" title=\"\">Línea temporal</a>. Creative Commons CC-BY-NC-SA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn7802ik-72c5heeyq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn7802ik-72c5heeyq</odePageId>
+      <odeBlockId>block-1774458146195-s8egsz77q</odeBlockId>
+      <blockName>Situación de Aprendizaje</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802ik-72c5heeyq</odePageId>
+          <odeBlockId>block-1774458146195-s8egsz77q</odeBlockId>
+          <odeIdeviceId>idevice-1774458146193-5qm32x4bn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto se enmarca dentro de una Situación de Aprendizaje centrada en el estudio de la Prehistoria, concretamente en el Paleolítico, a través de una metodología activa basada en la investigación y el aprendizaje por proyectos. En el siguiente enlace se puede consultar de forma detallada la descripción completa de la SdA, donde se recogen los objetivos, el contexto y el producto final que deberá elaborar el alumnado: <a href="https://www.canva.com/design/DAHDiWBB1ao/RbuGwtzV73MXWfijpICGkQ/edit?utm_content=DAHDiWBB1ao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" title="">Guía didáctica "Exploramos la Prehistoria"</a></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/2.png" title="" width="401" height="565" alt="" style="display: block; margin-left: auto; margin-right: auto;" />Laura del Pilar Martín Rey. <a href="https://www.canva.com/design/DAHDiWBB1ao/RbuGwtzV73MXWfijpICGkQ/edit">SDA. "Exploramos la Prehistoria"</a>. Creative Commons CC-BY-NC-SA</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774458146193-5qm32x4bn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto se enmarca dentro de una Situación de Aprendizaje centrada en el estudio de la Prehistoria, concretamente en el Paleolítico, a través de una metodología activa basada en la investigación y el aprendizaje por proyectos. En el siguiente enlace se puede consultar de forma detallada la descripción completa de la SdA, donde se recogen los objetivos, el contexto y el producto final que deberá elaborar el alumnado: <a href=\"https://www.canva.com/design/DAHDiWBB1ao/RbuGwtzV73MXWfijpICGkQ/edit?utm_content=DAHDiWBB1ao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\" title=\"\">Guía didáctica \"Exploramos la Prehistoria\"</a></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/2.png\" title=\"\" width=\"401\" height=\"565\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" />Laura del Pilar Martín Rey. <a href=\"https://www.canva.com/design/DAHDiWBB1ao/RbuGwtzV73MXWfijpICGkQ/edit\">SDA. \"Exploramos la Prehistoria\"</a>. Creative Commons CC-BY-NC-SA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn7802ik-72c5heeyq</odePageId>
+      <odeBlockId>block-1774459247791-tk6077g7q</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802ik-72c5heeyq</odePageId>
+          <odeBlockId>block-1774459247791-tk6077g7q</odeBlockId>
+          <odeIdeviceId>idevice-1774459247790-03qwhy7mx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se incluyen los <a href="https://docs.google.com/document/d/1-129BAf6jCgoB2q9n7JapkAc9xRTQzU2JDQLV1Upt3E/edit?usp=sharing" title="">criterios de evaluación</a> seleccionados para la materia de Geografía e Historia. Estos criterios se encuentran vinculados a las diferentes tareas planteadas en el proyecto, garantizando así una evaluación coherente y competencial.</p>
+<p>Del mismo modo, se presenta la tabla de tareas secuenciadas, donde se especifican las actividades que realizará el alumnado, el tiempo estimado, el tipo de agrupamiento y las herramientas digitales utilizadas. Esta organización facilita la planificación docente y permite tener una visión global del desarrollo del proyecto.</p>
+<p><img src="{{context_path}}/content/resources/capura 3.png" width="488" height="258" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;">Laura del Pilar Martín Rey. <a href="https://docs.google.com/document/d/1-129BAf6jCgoB2q9n7JapkAc9xRTQzU2JDQLV1Upt3E/edit?usp=sharing" title="">Criterios de evaluación</a>. Creative Commons CC-BY-NC-SA</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774459247790-03qwhy7mx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se incluyen los <a href=\"https://docs.google.com/document/d/1-129BAf6jCgoB2q9n7JapkAc9xRTQzU2JDQLV1Upt3E/edit?usp=sharing\" title=\"\">criterios de evaluación</a> seleccionados para la materia de Geografía e Historia. Estos criterios se encuentran vinculados a las diferentes tareas planteadas en el proyecto, garantizando así una evaluación coherente y competencial.</p>\n<p>Del mismo modo, se presenta la tabla de tareas secuenciadas, donde se especifican las actividades que realizará el alumnado, el tiempo estimado, el tipo de agrupamiento y las herramientas digitales utilizadas. Esta organización facilita la planificación docente y permite tener una visión global del desarrollo del proyecto.</p>\n<p><img src=\"{{context_path}}/content/resources/capura 3.png\" width=\"488\" height=\"258\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\">Laura del Pilar Martín Rey. <a href=\"https://docs.google.com/document/d/1-129BAf6jCgoB2q9n7JapkAc9xRTQzU2JDQLV1Upt3E/edit?usp=sharing\" title=\"\">Criterios de evaluación</a>. Creative Commons CC-BY-NC-SA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn7802ik-72c5heeyq</odePageId>
+      <odeBlockId>block-1774460049405-7l2cm6lsv</odeBlockId>
+      <blockName>Recomendaciones</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802ik-72c5heeyq</odePageId>
+          <odeBlockId>block-1774460049405-7l2cm6lsv</odeBlockId>
+          <odeIdeviceId>idevice-1774460049402-v0rbgqr9e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En cuanto a las <strong>recomendaciones</strong>, se sugiere adaptar el ritmo de trabajo a las características del alumnado, fomentar el aprendizaje cooperativo y promover el uso responsable, crítico y seguro de las tecnologías digitales. Asimismo, es conveniente prever posibles dificultades técnicas y contar con alternativas que garanticen la continuidad del proceso de enseñanza-aprendizaje.</p>
+<p>Por último, este recurso está diseñado<strong> para ser utilizado como</strong> una guía tanto para el profesorado como para el alumnado. Se recomienda presentar el proyecto de forma motivadora, acompañar al alumnado durante las diferentes fases y favorecer la reflexión sobre su propio aprendizaje. De este modo, se potencia un aprendizaje significativo, activo e inclusivo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774460049402-v0rbgqr9e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En cuanto a las <strong>recomendaciones</strong>, se sugiere adaptar el ritmo de trabajo a las características del alumnado, fomentar el aprendizaje cooperativo y promover el uso responsable, crítico y seguro de las tecnologías digitales. Asimismo, es conveniente prever posibles dificultades técnicas y contar con alternativas que garanticen la continuidad del proceso de enseñanza-aprendizaje.</p>\n<p>Por último, este recurso está diseñado<strong> para ser utilizado como</strong> una guía tanto para el profesorado como para el alumnado. Se recomienda presentar el proyecto de forma motivadora, acompañar al alumnado durante las diferentes fases y favorecer la reflexión sobre su propio aprendizaje. De este modo, se potencia un aprendizaje significativo, activo e inclusivo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn7802il-3io6d24ii</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn7802il-3io6d24ii</odePageId>
+      <odeBlockId>block-1774460191665-324bjfojk</odeBlockId>
+      <blockName>¿Cómo vamos a evaluar?</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802il-3io6d24ii</odePageId>
+          <odeBlockId>block-1774460191665-324bjfojk</odeBlockId>
+          <odeIdeviceId>idevice-1774460191664-aqba953ux</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo del proyecto utilizaremos <strong>diferentes instrumentos</strong> para conocer vuestro aprendizaje.</p>
+<p>En primer lugar, emplearemos una <strong>rúbrica </strong>que os entregaremos al inicio del proyecto. En ella podréis ver qué aspectos se van a evaluar en vuestro libro digital, lo que os ayudará a saber qué se espera de vuestro trabajo desde el principio.</p>
+<p><img src="{{context_path}}/content/resources/evaluacio.png" width="513" height="510" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Además, realizaréis una <strong>diana de evaluación</strong>, donde podréis reflexionar sobre vuestro trabajo, vuestra participación y cómo habéis colaborado en equipo. Será una forma de autoevaluaros y mejorar.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/dian.png" width="456" height="321" alt="" style="display: block; margin-left: auto; margin-right: auto;" title="" />Laura del Pilar Martín Rey. <a href="https://www.canva.com/design/DAHEk0Bgke0/NehGFfEjRRRaSZC813zbew/edit?utm_content=DAHEk0Bgke0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Diana de evaluación.</a> Creative Commons CC-BY-NC-SA</p>
+<p style="text-align: left;">Por último… ¡pondremos a prueba lo aprendido con un <a href="https://create.kahoot.it/details/185bbb01-b424-4766-9ff2-d1dd0e98f740" title="">Kahoot</a>! Un juego divertido con el que comprobaremos vuestros conocimientos sobre la Prehistoria.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/kahoot.png" width="458" height="226" alt="" style="display: block; margin-left: auto; margin-right: auto;" title="" />Laura del Pilar Martín Rey. <a href="https://create.kahoot.it/details/185bbb01-b424-4766-9ff2-d1dd0e98f740">Kahoot</a>.Creative Commons CC-BY-NC-SA</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774460191664-aqba953ux","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo del proyecto utilizaremos <strong>diferentes instrumentos</strong> para conocer vuestro aprendizaje.</p>\n<p>En primer lugar, emplearemos una <strong>rúbrica </strong>que os entregaremos al inicio del proyecto. En ella podréis ver qué aspectos se van a evaluar en vuestro libro digital, lo que os ayudará a saber qué se espera de vuestro trabajo desde el principio.</p>\n<p><img src=\"{{context_path}}/content/resources/evaluacio.png\" width=\"513\" height=\"510\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Además, realizaréis una <strong>diana de evaluación</strong>, donde podréis reflexionar sobre vuestro trabajo, vuestra participación y cómo habéis colaborado en equipo. Será una forma de autoevaluaros y mejorar.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/dian.png\" width=\"456\" height=\"321\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" />Laura del Pilar Martín Rey. <a href=\"https://www.canva.com/design/DAHEk0Bgke0/NehGFfEjRRRaSZC813zbew/edit?utm_content=DAHEk0Bgke0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\">Diana de evaluación.</a> Creative Commons CC-BY-NC-SA</p>\n<p style=\"text-align: left;\">Por último… ¡pondremos a prueba lo aprendido con un <a href=\"https://create.kahoot.it/details/185bbb01-b424-4766-9ff2-d1dd0e98f740\" title=\"\">Kahoot</a>! Un juego divertido con el que comprobaremos vuestros conocimientos sobre la Prehistoria.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/kahoot.png\" width=\"458\" height=\"226\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"\" />Laura del Pilar Martín Rey. <a href=\"https://create.kahoot.it/details/185bbb01-b424-4766-9ff2-d1dd0e98f740\">Kahoot</a>.Creative Commons CC-BY-NC-SA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn7802im-swmgwykv5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn7802im-swmgwykv5</odePageId>
+      <odeBlockId>block-1774461025267-hqgfdsi6a</odeBlockId>
+      <blockName>Diseño Universal para el Aprendizaje (DUA)</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802im-swmgwykv5</odePageId>
+          <odeBlockId>block-1774461025267-hqgfdsi6a</odeBlockId>
+          <odeIdeviceId>idevice-1774461025264-o6hmz8cy2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto se fundamenta en los principios del <strong>DUA</strong>, ofreciendo múltiples formas de representación, acción y expresión, con el objetivo de <strong>dar respuesta</strong> a las <strong>necesidades del alumnado.</strong></p>
+<p>En este sentido, la <strong>información</strong> se presenta en <strong>diversos formatos</strong>, facilitando el acceso a la misma: textos adaptados (por ejemplo, en tipo de letra en OpenDyslexic), vídeos explicativos, uso de subtítulos y apoyos visuales que favorecen la comprensión. Asimismo, se incorporan recursos manipulativos, como la observación directa y el contacto con réplicas de herramientas del Paleolítico, permitiendo al alumnado aprender no solo de forma visual, sino también experiencial.</p>
+<p>Del mismo modo, se promueve el <strong>trabajo cooperativo</strong> mediante <strong>grupos heterogéneos</strong> con <strong>perspectiva de género</strong>, siendo estos <strong>flexibles</strong>, favoreciendo la inclusión, la participación activa y la ayuda entre iguales. </p>
+<p>Asimismo, se favorece el uso de <strong>recursos digitales</strong>, ya que el alumnado participa en la búsqueda de información, la visualización de contenidos, el análisis de materiales y la elaboración de su propio producto final, desarrollando así su competencia digital de manera responsable y significativa.</p>
+<p>Desde el punto de vista de mi labor como PT, la intervención se centra en facilitar el acceso al currículo, priorizando el desarrollo de los contenidos de los Programas Específicos del alumnado con NEAE, y favoreciendo funciones ejecutivas como la memoria de trabajo, la atención y los procesos lectores.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774461025264-o6hmz8cy2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto se fundamenta en los principios del <strong>DUA</strong>, ofreciendo múltiples formas de representación, acción y expresión, con el objetivo de <strong>dar respuesta</strong> a las <strong>necesidades del alumnado.</strong></p>\n<p>En este sentido, la <strong>información</strong> se presenta en <strong>diversos formatos</strong>, facilitando el acceso a la misma: textos adaptados (por ejemplo, en tipo de letra en OpenDyslexic), vídeos explicativos, uso de subtítulos y apoyos visuales que favorecen la comprensión. Asimismo, se incorporan recursos manipulativos, como la observación directa y el contacto con réplicas de herramientas del Paleolítico, permitiendo al alumnado aprender no solo de forma visual, sino también experiencial.</p>\n<p>Del mismo modo, se promueve el <strong>trabajo cooperativo</strong> mediante <strong>grupos heterogéneos</strong> con <strong>perspectiva de género</strong>, siendo estos <strong>flexibles</strong>, favoreciendo la inclusión, la participación activa y la ayuda entre iguales. </p>\n<p>Asimismo, se favorece el uso de <strong>recursos digitales</strong>, ya que el alumnado participa en la búsqueda de información, la visualización de contenidos, el análisis de materiales y la elaboración de su propio producto final, desarrollando así su competencia digital de manera responsable y significativa.</p>\n<p>Desde el punto de vista de mi labor como PT, la intervención se centra en facilitar el acceso al currículo, priorizando el desarrollo de los contenidos de los Programas Específicos del alumnado con NEAE, y favoreciendo funciones ejecutivas como la memoria de trabajo, la atención y los procesos lectores.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn7802im-358kee6fk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn7802im-358kee6fk</odePageId>
+      <odeBlockId>block-1774461951410-zer5hmslv</odeBlockId>
+      <blockName>Información general</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802im-358kee6fk</odePageId>
+          <odeBlockId>block-1774461951410-zer5hmslv</odeBlockId>
+          <odeIdeviceId>idevice-1774461951407-v4w1b07xe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; height: 409.6px; background-color: #ecf0f1; border-style: solid;">
+<tbody>
+<tr style="height: 37.6px;">
+<td style="width: 15.1182%; height: 37.6px; border-style: solid; text-align: center; background-color: #ced4d9;"><strong>Autoría</strong></td>
+<td style="width: 84.8818%; height: 37.6px; border-style: solid;">Laura del Pilar Martín Rey</td>
+</tr>
+<tr style="height: 66.4px;">
+<td style="width: 15.1182%; height: 66.4px; text-align: center; border-style: solid; background-color: #ced4d9;"><strong>Título</strong></td>
+<td style="width: 84.8818%; height: 66.4px; border-style: solid;">Exploramos la Prehistoria: Investigación y excavación arqueológica</td>
+</tr>
+<tr style="height: 268px;">
+<td style="width: 15.1182%; height: 268px; text-align: center; border-style: solid; background-color: #ced4d9;"><strong>Descripción</strong></td>
+<td style="width: 84.8818%; height: 268px; border-style: solid;">Este recurso educativo ha sido diseñado como una Situación de Aprendizaje para el alumnado de 1.º de ESO en la materia de Geografía e Historia. A través de una metodología activa y basada en proyectos, el alumnado investiga sobre la Prehistoria, analiza herramientas del Paleolítico y elabora un producto final digital, fomentando el aprendizaje significativo y el desarrollo de competencias clave.</td>
+</tr>
+<tr style="height: 37.6px;">
+<td style="width: 15.1182%; height: 37.6px; text-align: center; border-style: solid; background-color: #ced4d9;"><strong>Licencia</strong></td>
+<td style="width: 84.8818%; height: 37.6px; border-style: solid;" title=""><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Creative Commons CC-BY-NC-SA</a></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p style="text-align: center;">Este contenido ha sido creado con <a href="https://exelearning.net/" title="">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774461951407-v4w1b07xe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 409.6px; background-color: #ecf0f1; border-style: solid;\">\n<tbody>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 15.1182%; height: 37.6px; border-style: solid; text-align: center; background-color: #ced4d9;\"><strong>Autoría</strong></td>\n<td style=\"width: 84.8818%; height: 37.6px; border-style: solid;\">Laura del Pilar Martín Rey</td>\n</tr>\n<tr style=\"height: 66.4px;\">\n<td style=\"width: 15.1182%; height: 66.4px; text-align: center; border-style: solid; background-color: #ced4d9;\"><strong>Título</strong></td>\n<td style=\"width: 84.8818%; height: 66.4px; border-style: solid;\">Exploramos la Prehistoria: Investigación y excavación arqueológica</td>\n</tr>\n<tr style=\"height: 268px;\">\n<td style=\"width: 15.1182%; height: 268px; text-align: center; border-style: solid; background-color: #ced4d9;\"><strong>Descripción</strong></td>\n<td style=\"width: 84.8818%; height: 268px; border-style: solid;\">Este recurso educativo ha sido diseñado como una Situación de Aprendizaje para el alumnado de 1.º de ESO en la materia de Geografía e Historia. A través de una metodología activa y basada en proyectos, el alumnado investiga sobre la Prehistoria, analiza herramientas del Paleolítico y elabora un producto final digital, fomentando el aprendizaje significativo y el desarrollo de competencias clave.</td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 15.1182%; height: 37.6px; text-align: center; border-style: solid; background-color: #ced4d9;\"><strong>Licencia</strong></td>\n<td style=\"width: 84.8818%; height: 37.6px; border-style: solid;\" title=\"\"><a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es\">Creative Commons CC-BY-NC-SA</a></td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p style=\"text-align: center;\">Este contenido ha sido creado con <a href=\"https://exelearning.net/\" title=\"\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn7802im-358kee6fk</odePageId>
+      <odeBlockId>block-1774514115330-fzv0n5xac</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn7802im-358kee6fk</odePageId>
+          <odeBlockId>block-1774514115330-fzv0n5xac</odeBlockId>
+          <odeIdeviceId>idevice-1774514115328-kydooom4e</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><p>Este contenido fue creado con <a href="https://exelearning.net/" title="">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p></p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
